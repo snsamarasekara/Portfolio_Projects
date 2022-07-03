@@ -1,3 +1,4 @@
+/* This script consist of SQL code to determine the education level based on age group usign california education data */
 USE california_edu;
 CREATE TABLE Cali_edu(
       year TEXT, age TEXT, gender VARCHAR(6),
