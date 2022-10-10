@@ -9,10 +9,15 @@ Portfolio : https://github.com/snsamarasekara/Portfolio_Projects
 GitHub: https://snsamarasekara.github.io/ 
 
 Types of data used in Projects : Retail (sales), Medical (EEG, Medicare Claims, Disease), Image data, Relational datasets, Text data, Auto-Recalls, Structured and unstructured datasets
+
 Programming language used : Python, R, SQL, Matlab
+
 Models or methods : Machine learning, Neural networks, Deep learning (AI), Math modeling 
+
 Type of analysis : Sales patterns, Risk analysis, Time series/forecasting, text classification, prediction (disease, risk, sales)
+
 Product types : Retail, Medical devices, Thin films, Vehicles/Cars
+
 
 Project descriptions:
 
