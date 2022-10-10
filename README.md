@@ -15,43 +15,44 @@ Type of analysis : Sales patterns, Risk analysis, Time series/forecasting, text 
 Product types : Retail, Medical devices, Thin films, Vehicles/Cars
 
 Project descriptions:
-Retail Sales Forecasting modeling to improve the revenue (ARIMA, Machine learning, Python)
+
+1. Retail Sales Forecasting modeling to improve the revenue (ARIMA, Machine learning, Python)
 Improved the performance of the sales forecasting model and observed sales patterns for future improvement.
 Used time series analysis to see the sales patterns with time and to suggest methods to improve the sales and revenue 
 Machine learning models were developed to increase the accuracy of prediction (More than 90%)
 
-Pneumonia detection classifier using x-ray images (Deep learning / AI)
+2. Pneumonia detection classifier using x-ray images (Deep learning / AI)
 Developed python based classifier for image detection using advanced CNNs (ResNets, VGGs) 
 Chest x-ray image data cleaned and developed deep neural network models for classification 
 Improved the models to obtain an accuracy around 95% 
 
-Improving the accuracy of a P300 speller (Medical Device), Python 
+3. Improving the accuracy of a P300 speller (Medical Device), Python 
 ALS Patient EEG data was cleaned and preprocessed then Machine learning models were used : SVM, Logistic regression, linear discriminant analysis 
 Obtained 100% accuracy using SVM 
 
-Customer service management data analysis
+4. Customer service management data analysis
 Data model was designed using database relationships 
 SQL querying was done for data analysis including advanced SQL queries using MySQL workbench
 
-Improving Customer satisfaction using text classification (NLP, Python, Neural Networks)
+5. Improving Customer satisfaction using text classification (NLP, Python, Neural Networks)
 Neural network model was developed for text classification
 Obtained more than 90% accuracy with the testing data
 
-Effects of Chemotherapy on cancer cells : simulation using advanced differential equations (Math modeling, Matlab)
+6. Effects of Chemotherapy on cancer cells : simulation using advanced differential equations (Math modeling, Matlab)
 Differential equations were solved manually and using Matlab and plotted to see the effects of the drugs.
 Codes can be used to simulate different conditions using the models
 
-Auto-Recall prediction (R, Machine learning modeling) 
+7. Auto-Recall prediction (R, Machine learning modeling) 
 Predicting time-to-recall for manufacturers by discovering past recall patterns which can improve sales. (https://rpubs.com/sarasamarasekara17/951572) 
 
-Risk analysis using Medicare Claims data (python, machine learning, fraud detection)
+8. Risk analysis using Medicare Claims data (python, machine learning, fraud detection)
 Medicare part D data which includes prescriber and drugs were used in risk prediction
 Risk of fraud was predicted using past fraud details by prescriber and department
 
-Cervical spine fracture detection ( Deep learning, Computer vision) : Kaggle competition (On-going) 
+9. Cervical spine fracture detection ( Deep learning, Computer vision) : Kaggle competition (On-going) 
 
 
-Research projects (included in researchgate)
+10. Research projects (included in researchgate)
 Model development researcher | Bcc and Fcc Ferromagnetic thin films development
 Improved efficiency of spin coating to optimize the quality of products through simulations
 Technologies and simulations used : Matlab, Python, Monte-Carlo simulation 
