@@ -65,5 +65,13 @@ Visualization to interpret changes to the new models and to check the productivi
 Collaborated with researchers to improve the quality of the products
 Improved properties of thin films using modified math models (Matlab and python programming)
 ResearchGate: https://www.researchgate.net/profile/Sara-Samarasekara
+
+11. Covid-19 Mortality risk analysis (statistical modeling, R) : Analysis is done to See how the pre-existing conditions/ diseases affect Covid-19 death risk
+Summary of descriptive statistics and t-test was done to see the p-values : this was done to check the significance of each factore/condition on risk
+Uni and Multivariate Cox regression was performed to see the survival over time (strating from time of infecting) 
+Finally, KM plot was created to see the survival probability over time comparing control to experimental individuals
+Link : https://rpubs.com/sarasamarasekara17/975728
+
+
         
 
