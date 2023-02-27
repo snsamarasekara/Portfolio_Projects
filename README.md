@@ -40,8 +40,7 @@ Obtained more than 90% accuracy with the testing data
 Differential equations were solved manually and using Matlab and plotted to see the effects of the drugs.
 Codes can be used to simulate different conditions using the models
 
-8. Auto-Recall prediction (R, Machine learning modeling) 
-Predicting time-to-recall for manufacturers by discovering past recall patterns which can improve sales. (https://rpubs.com/sarasamarasekara17/951572) 
+
 
 9. Risk analysis using Medicare Claims data (python, machine learning, fraud detection)
 Medicare part D data which includes prescriber and drugs were used in risk prediction
