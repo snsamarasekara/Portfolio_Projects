@@ -42,13 +42,6 @@ Codes can be used to simulate different conditions using the models
 
 
 
-9. Risk analysis using Medicare Claims data (python, machine learning, fraud detection)
-Medicare part D data which includes prescriber and drugs were used in risk prediction
-Risk of fraud was predicted using past fraud details by prescriber and department
-
-10. Cervical spine fracture detection ( Deep learning, Computer vision) : Kaggle competition (On-going) 
-
-
 11. Research projects (included in researchgate)
 Model development researcher | Bcc and Fcc Ferromagnetic thin films development
 Improved efficiency of spin coating to optimize the quality of products through simulations
