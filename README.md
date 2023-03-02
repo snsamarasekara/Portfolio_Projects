@@ -12,7 +12,7 @@ Programming language used : Python, R, SQL, Matlab
 
 Models or methods : Machine learning, Neural networks, Deep learning (AI), Math modeling
 
-Type of analysis :  Risk analysis, Time series/forecasting, text classification, prediction (disease, risk, sales)
+ analysis :  Risk analysis, Time series/forecasting, text classification, prediction (disease, risk, sales)
 
 
 
